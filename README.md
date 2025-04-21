@@ -5,6 +5,7 @@
 
 # デプロイ先
 https://hew-dev.kigawa.net/lp
+https://hew-dev.kigawa.net
 # デモ動画
 https://youtu.be/V1hx27uSIOI
 # 使用技術
