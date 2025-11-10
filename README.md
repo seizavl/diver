@@ -4,8 +4,7 @@
 3D空間に商品を配置し、関連する商品が浮かび上がってくる仕組みにより、まるで深海を探求するようなワクワク感を追求しました。
 
 # デプロイ先
-https://hew-dev.kigawa.net/lp
-https://hew-dev.kigawa.net
+https://diver.kigawa.net/
 # デモ動画
 https://youtu.be/V1hx27uSIOI
 # 使用技術
